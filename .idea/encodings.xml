@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zj/rightconter.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zj/rightcontertop.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zj/rightxia.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zj/righxiaxia.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zj/you.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zj/youxia.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zj/zhezhao.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zj/zj.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zj/zuida.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zj/zuoxia.js" charset="UTF-8" />
+  </component>
+</project>
